@@ -20,6 +20,7 @@ public class Maven {
 		}catch(Exception e){
 			e.printStackTrace();
 			logger.error("出错了！！！");
+			logger.error("采花失败");
 			logger.error(e.getMessage(),e.getCause());
 		}
 	}
