@@ -16,6 +16,7 @@ public class Maven {
 		logger.debug("33333333333444444");
 		logger.debug("55555555555555555555555555");
 		logger.debug("田伯光到此一游!");
+		logger.debug("123123123！");
 		}catch(Exception e){
 			e.printStackTrace();
 			logger.error("出错了！！！");
